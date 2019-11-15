@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Click 2 Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-21 19:27+0000\n"
+"PO-Revision-Date: 2017-12-22 05:01+0000\n"
+"Last-Translator: sittan <uri.sittan@gmail.com>\n"
+"Language-Team: Hebrew\n"
+"Language: he-IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "WP Click 2 Chat"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wpclick2chat.com/"
+msgstr ""
+
+#: wp-click-2-chat.php:90
+msgid "You do not have sufficient permissions to access this page."
+msgstr "אין לך הרשאות מתאימות לכניסה לעמוד הזה"
+
+#: wp-click-2-chat.php:95
+msgid "WP Click 2 Chat Settings"
+msgstr "הגדרות WP Click 2 Chat"
+
+#: wp-click-2-chat.php:96
+msgid "Here you can manage all the setting of the WP Click 2 Chat plugin"
+msgstr "כאן תוכל לנהל את כל ההגדרות וההעדפות של הפלאגין"
+
+#: wp-click-2-chat.php:130
+msgid ""
+"<b>Note:</b> in order for the button to be displayed you have to enter a "
+"vaid phone number with country and area code."
+msgstr ""
+"<b>שים לב:</b> על מנת שהכפתור יהיה מוצג באתר עליך להזין מספר טלפון כולל קוד "
+"מדינה וקוד אזור"
+
+#: wp-click-2-chat.php:134
+msgid ""
+"<b>Note:</b> the status of the plugin is DISABLED. the button is not "
+"displayed on the website."
+msgstr "<b>שים לב:</b> סטטוס הכפתור כרגע הוא DISABLED. הכפתור אינו מוצג באתר."
+
+#: wp-click-2-chat.php:143
+msgid "General"
+msgstr "כללי"
+
+#: wp-click-2-chat.php:146
+msgid "Phone Number"
+msgstr "מספר טלפון"
+
+#: wp-click-2-chat.php:149
+msgid ""
+"The recipient phone number - please use full number <br />(with country and "
+"area code ie: 14155552671)"
+msgstr ""
+"מספר הטלפון של הנמען - בבקשה להזין מספר מלא <br />כולל קוד מדינה וקוד עיר. "
+"לדוגמה: 972039996699"
+
+#: wp-click-2-chat.php:153
+msgid "Share Text"
+msgstr "טקסט ההודעה"
+
+#: wp-click-2-chat.php:156
+msgid ""
+"The text that will be displayed in the WhatsApp message<br /> tip: You can "
+"use [post_title] placeholder in this text"
+msgstr ""
+"הטקסט שיוצג בהודעת הוואטסאפ שתישלח על ידי הגולשים. <br />\n"
+"טיפ: ניתן להשתמש בקיצור [post_title] בטקסט"
+
+#: wp-click-2-chat.php:160
+msgid "Status"
+msgstr "סטטוס"
+
+#: wp-click-2-chat.php:168
+msgid ""
+"Use this for hiding or showing the button<br /> or display it on "
+"mobile/desktop only"
+msgstr ""
+"השתמש בזה על מנת להסתיר או להציג את הכפתור<br />\n"
+"או כדי לקבוע האם הוא מוצג במובייל, דסקטופ או שניהם."
+
+#: wp-click-2-chat.php:173
+msgid "Appearance"
+msgstr "תצוגה"
+
+#: wp-click-2-chat.php:177
+msgid "Button Type"
+msgstr "סוג הכפתור"
+
+#: wp-click-2-chat.php:189
+msgid "The type of the button"
+msgstr "תצורת כתפור השיתוף"
+
+#: wp-click-2-chat.php:194
+msgid "Button Text"
+msgstr "טקסט הכפתור"
+
+#: wp-click-2-chat.php:197
+msgid "The text that appears on the button (max 25 characters)"
+msgstr "הטקסט המופיע על גבי כפתור השיתוף"
+
+#: wp-click-2-chat.php:202
+msgid "Button Background Color"
+msgstr "צבע רקע"
+
+#: wp-click-2-chat.php:205
+msgid "The background color of the button"
+msgstr "צבע הרקע של כפתור השיתוף"
+
+#: wp-click-2-chat.php:210
+msgid "Button Text Color"
+msgstr "צבע טקסט"
+
+#: wp-click-2-chat.php:213
+msgid "The text color of the button"
+msgstr "צבע הטקסט של כפתור השיתוף"
+
+#: wp-click-2-chat.php:218
+msgid "Button Icon Color"
+msgstr "צבע אייקון"
+
+#: wp-click-2-chat.php:221
+msgid "The color of the WhatsApp icon"
+msgstr "צבע האייקון  של כפתור השיתוף"
+
+#: wp-click-2-chat.php:227
+msgid "Display In"
+msgstr "מופיע ב"
+
+#: wp-click-2-chat.php:253
+msgid "The button will be displayed in the selected elements"
+msgstr "כפתור השיתוף יופיע בעמודים שייבחרו כאן"
+
+#: wp-click-2-chat.php:258
+msgid "Events"
+msgstr "ארועים"
+
+#: wp-click-2-chat.php:263
+msgid "Facebook Event Name"
+msgstr "פייסבוק"
+
+#: wp-click-2-chat.php:266
+msgid "The name of the Facebook event that will be fired on button click"
+msgstr "שם ה Event בפייסבוק ללחיצה על הכפתור"
+
+#: wp-click-2-chat.php:271
+msgid "Google Event Name"
+msgstr "גוגל"
+
+#: wp-click-2-chat.php:274
+msgid "The name of the Google event that will be fired on button click"
+msgstr "שם ה Event בגוגל ללחיצה על הכפתור"
+
+#: wp-click-2-chat.php:283
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#. Description of the plugin
+msgid ""
+"Let your website visitors contact you directly through WhatsApp – Easy, "
+"Smart, Customized."
+msgstr ""
+"תנו לגולשים המבקרים באתר שלכם אופציה ליצור איתכם קשר ישירות לוואטסאפ בצורה "
+"קלה ומהירה."

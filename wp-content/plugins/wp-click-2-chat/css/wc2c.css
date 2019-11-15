@@ -1,0 +1,214 @@
+.wc2c-wrap {
+    position: fixed;
+    z-index: 9999;
+    display:inline-block;
+}
+
+.wc2c-wrap {
+    text-decoration: none !important;
+}
+
+.wc2c-wrap:hover,.wc2c-wrap:focus  {
+    text-decoration: none !important;
+}
+
+.wc2c-text {
+    top: -3px;
+}
+/* Floating Circle */
+
+.wc2c-floating-circle-right {
+    right:25px;
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    bottom:25px;
+    text-align: center;
+    padding:9px;
+    -webkit-box-shadow: 3px 3px 12px 0px rgba(51,51,51,0.72);
+    -moz-box-shadow: 3px 3px 12px 0px rgba(51,51,51,0.72);
+    box-shadow: 3px 3px 12px 0px rgba(51,51,51,0.72);    
+}
+
+.wc2c-floating-circle-left {
+    left:25px;
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    bottom:25px;
+    text-align: center;
+    padding:9px;
+    -webkit-box-shadow: 3px 3px 12px 0px rgba(51,51,51,0.72);
+    -moz-box-shadow: 3px 3px 12px 0px rgba(51,51,51,0.72);
+    box-shadow: 3px 3px 12px 0px rgba(51,51,51,0.72);    
+}
+
+.wc2c-floating-circle-right .wc2c-text, .wc2c-floating-circle-left .wc2c-text {
+    display: none;
+}
+
+.wc2c-floating-circle-right .wc2c-icon, .wc2c-floating-circle-left .wc2c-icon {
+    font-size:42px;
+    width:auto;
+}
+
+
+/*Bottom Full Width */
+
+.wc2c-bottom-full-width {
+    right:0;
+    bottom:0;
+    left:0;
+    width:100%;
+    text-align: center;
+    padding:5px;
+}
+
+.wc2c-bottom-full-width .wc2c-icon {
+    font-size:30px;
+}
+
+.wc2c-bottom-full-width .wc2c-text {
+    display: inline-block;
+    font-size: 18px;
+    position: relative;
+    top: -5px;
+}
+
+
+/* Top Full Width */
+
+.wc2c-top-full-width {
+    right:0;
+    top:0;
+    left:0;
+    width:100%;
+    text-align: center;
+    padding:5px;
+}
+
+.wc2c-top-full-width .wc2c-icon {
+    font-size:30px;
+}
+
+.wc2c-top-full-width .wc2c-text {
+    display: inline-block;
+    font-size: 18px;
+    position: relative;
+    top: -5px;
+}
+
+
+/* Bottom Left */
+
+.wc2c-bottom-left {
+    display:table;
+    bottom:0;
+    max-width:175px;
+    left:0;
+    padding:7px;
+    -webkit-border-top-right-radius: 8px;
+    -moz-border-radius-topright: 8px;
+    border-top-right-radius: 8px;
+    line-height: 18px;
+}
+
+.wc2c-bottom-left .wc2c-icon {
+    font-size:34px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.wc2c-bottom-left .wc2c-text {
+    
+    font-size: 16px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* Bottom Right */
+
+.wc2c-bottom-right {
+    display:table;
+    bottom:0;
+    max-width:175px;
+    right:5px;
+    padding:7px;
+    -webkit-border-top-left-radius: 8px;
+    -moz-border-radius-topleft: 8px;
+    border-top-left-radius: 8px;
+    line-height: 18px;
+    direction: rtl;
+}
+
+.wc2c-bottom-right .wc2c-icon {
+    font-size:34px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.wc2c-bottom-right .wc2c-text {
+    font-size: 16px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+
+/* Top Right */
+
+.wc2c-top-right {
+    display:table;
+    top:0;
+    max-width:175px;
+    right:5px;
+    padding:7px;
+    -webkit-border-bottom-left-radius: 8px;
+    -moz-border-radius-bottomleft: 8px;
+    border-bottom-left-radius: 8px;
+    line-height: 18px;
+    direction: rtl;
+}
+
+.wc2c-top-right .wc2c-icon {
+    font-size:34px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.wc2c-top-right .wc2c-text {
+    font-size: 16px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+/* Top Left */
+
+.wc2c-top-left {
+    display:table;
+    top:0;
+    max-width:175px;
+    left:0;
+    padding:7px;
+    -webkit-border-bottom-right-radius: 8px;
+    -moz-border-radius-bottomright: 8px;
+    border-bottom-right-radius: 8px;
+    line-height: 18px;
+}
+
+.wc2c-top-left .wc2c-icon {
+    font-size:34px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.wc2c-top-left .wc2c-text {
+    font-size: 16px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}

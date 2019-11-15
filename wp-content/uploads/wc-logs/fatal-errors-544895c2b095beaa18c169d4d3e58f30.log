@@ -1,0 +1,22 @@
+2018-04-30T13:55:56+00:00 CRITICAL Call to undefined function get_cfc_meta()
+
+2018-04-30T13:55:56+00:00 CRITICAL Call to undefined function get_cfc_meta()
+
+2018-04-30T13:55:56+00:00 CRITICAL Call to undefined function get_cfc_meta()
+
+2018-05-02T11:21:49+00:00 CRITICAL Call to a member function get_name() on null
+
+2018-05-02T11:23:58+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-05-02T11:24:52+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-05-02T11:31:46+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-05-02T11:32:00+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-05-02T11:32:29+00:00 CRITICAL Call to a member function get_attributes() on null
+
+2018-05-02T14:07:32+00:00 CRITICAL Call to undefined function custom_breadcrumbs()
+
+2018-05-03T13:57:36+00:00 CRITICAL Call to undefined function custom_breadcrumbs()
+

@@ -1,0 +1,17 @@
+.wc2c_settings_section_title {
+    border-bottom:1px solid#ccc;
+    padding-bottom:5px;
+    font-size:20px;
+    width:50%;
+}
+
+
+.wc2c_settings_notice {
+    color:#7c041b;
+    font-size:15px;
+}
+
+
+.wc2c-regular-text {
+    width: 25em;
+}

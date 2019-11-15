@@ -1,0 +1,27 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+td.advance_search_html {
+    margin-bottom: 9px;
+    padding: 15px 10px;
+    line-height: 1.3;
+    vertical-align: middle;
+}
+
+a#advance_search_open_setting {
+    cursor: pointer;
+}
+a#advance_search_open_preview {
+    cursor: pointer;
+}
+a#advance_search_open_shortcode {
+    cursor: pointer;
+}
+.woo_advance_save_record_messgae { 
+	margin-top: 1%;
+}
+a#advance_search_open_custom_css {
+    cursor: pointer;
+}
